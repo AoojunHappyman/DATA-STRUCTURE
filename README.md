@@ -33,7 +33,20 @@
 
 ---
 
-## 🔹 3. Trees & Search Trees
+## 🔹 3. Stacks, Queues & Deque
+
+โครงสร้างข้อมูลที่จัดการข้อมูลแบบลำดับการเข้า-ออก
+
+### 📌 หัวข้อสำคัญ
+
+* Stack (LIFO - Last In First Out)
+* Queue (FIFO - First In First Out)
+* Deque (Double-Ended Queue)
+* การใช้งาน เช่น Undo, BFS, Sliding Window
+
+---
+
+## 🔹 4. Trees & Search Trees
 
 โครงสร้างข้อมูลแบบต้นไม้ ใช้ในการจัดการข้อมูลแบบลำดับชั้น
 
@@ -49,7 +62,7 @@
 
 ---
 
-## 🔹 4. Hashing & Hash Table
+## 🔹 5. Hashing & Hash Table
 
 โครงสร้างข้อมูลที่ใช้ Hash Function ในการจัดเก็บและค้นหาข้อมูลอย่างรวดเร็ว
 
@@ -61,40 +74,6 @@
 * Open Addressing
 
 ---
-
-## 🚀 วิธีใช้งาน
-
-```bash id="q2k91a"
-python array.py
-python recursion.py
-python hash.py
-python trees.py
-```
-
+## 👨‍💻 Author **Pattanachai Sawetbunchoed**
 ---
-
-## 🎯 จุดประสงค์ของโปรเจกต์
-
-* เข้าใจโครงสร้างข้อมูลหลักในวิชา Data Structure
-* ฝึกเขียน Algorithm และ Problem Solving
-* ใช้ทบทวนก่อนสอบ
-* ใช้เป็น Portfolio บน GitHub
-
----
-
-## 🧠 สิ่งที่ได้เรียนรู้
-
-* การจัดการข้อมูลอย่างมีประสิทธิภาพ
-* การคิดแบบ Recursive
-* การเลือกใช้ Data Structure ให้เหมาะกับปัญหา
-* แนวคิดพื้นฐานของ Algorithm
-
----
-
-## 👨‍💻 Author
-
-**Pattanachai Sawetbunchoed**
-
----
-
-⭐ สามารถนำไปปรับปรุงหรือพัฒนาต่อได้ตามต้องการ
+⭐ สามารถนำไปปรับปรุงหรือพัฒนาต่อได้ตามต้องการ ฉันให้เพิ่มจากในนี้
