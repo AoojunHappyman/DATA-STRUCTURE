@@ -74,6 +74,7 @@
 * Open Addressing
 
 ---
-## 👨‍💻 Author **Pattanachai Sawetbunchoed**
+## 👨‍💻 Author 
+**Pattanachai Sawetbunchoed**
 ---
 ⭐ สามารถนำไปปรับปรุงหรือพัฒนาต่อได้ตามต้องการ ฉันให้เพิ่มจากในนี้
